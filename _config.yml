@@ -2,6 +2,7 @@ name: PhilStockWorld
 favicon: null
 layout_spectrum: 0.84518
 typography_spectrum: 0.74027
+title: 'Fun and Profits!'
 cta:
   domain: null
   bucket: null

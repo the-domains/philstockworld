@@ -1,7 +1,7 @@
 name: PhilStockWorld
 favicon: null
-layout_spectrum: 0.6470520771108568
-typography_spectrum: 0.7404813484754413
+layout_spectrum: 0.84518
+typography_spectrum: 0.74027
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9443290212657303
-  lightness: 0.778220362495631
-  saturation: 0.5585998450405896
-  rhythmicContrast: 0.40057861851528287
+    - '#ffffff'
+    - '#dcdcdc'
+    - '#042c46'
+    - '#c27d22'
+    - '#4c6876'
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
